@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **https://discord.gg/kc9MCuP**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
