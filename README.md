@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Small Game Projects**
 
-- 🤝 I’m looking for help with **Develop game inside the Bevy Engine**
+- 🤝 I’m looking for help with **Develop games inside the Bevy Engine**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/LukasFratzl](https://github.com/LukasFratzl)
 
